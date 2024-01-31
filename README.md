@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+my name is **frances uloaku**, am a computer scientist. i have knowledge of microssft excel
 
-<!--
-**francesuloaku/francesuloaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on data analytics
+- 🌱 I’m currently learning excel
+- 👯 I’m looking to collaborate on data project
+- 🤔 I’m looking for help with coding in python
+- 💬 Ask me about web design
+- 📫 How to reach me: 
+- 😄 Pronouns: she
+- ⚡ Fun fact: i love teaching and doing calculation
+
